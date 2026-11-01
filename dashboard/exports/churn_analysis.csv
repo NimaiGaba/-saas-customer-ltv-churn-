@@ -1,0 +1,28 @@
+SubscriptionType,ContractDuration,CustomerSegment,Customers,ChurnRate,AvgMonthlyCharge,AvgTenure
+Basic,Month-to-Month,Enterprise,202,33.17,30.9475,18.1931
+Basic,Month-to-Month,Mid-Market,297,42.42,30.354,17.8485
+Basic,Month-to-Month,SMB,496,43.95,30.3762,17.9819
+Basic,One Year,Enterprise,126,17.46,30.5773,17.7698
+Basic,One Year,Mid-Market,175,23.43,30.7219,17.4114
+Basic,One Year,SMB,293,24.91,30.7981,17.942
+Basic,Two Year,Enterprise,79,11.39,28.8395,19.1392
+Basic,Two Year,Mid-Market,131,13.74,30.7106,17.3206
+Basic,Two Year,SMB,190,16.84,32.6532,17.3895
+Premium,Month-to-Month,Enterprise,116,48.28,141.7087,17.9483
+Premium,Month-to-Month,Mid-Market,175,46.86,148.6333,17.1257
+Premium,Month-to-Month,SMB,295,49.83,143.5552,17.5898
+Premium,One Year,Enterprise,69,17.39,149.0434,19.4638
+Premium,One Year,Mid-Market,119,36.13,149.4536,18.084
+Premium,One Year,SMB,208,26.92,142.2604,16.9856
+Premium,Two Year,Enterprise,51,13.73,141.5612,16.1373
+Premium,Two Year,Mid-Market,74,13.51,152.6436,18.9054
+Premium,Two Year,SMB,123,30.08,151.2827,17.4634
+Standard,Month-to-Month,Enterprise,169,39.64,70.952,18.7929
+Standard,Month-to-Month,Mid-Market,256,45.31,69.5369,17.2148
+Standard,Month-to-Month,SMB,452,46.9,70.0795,17.7633
+Standard,One Year,Enterprise,97,17.53,70.8222,18.6392
+Standard,One Year,Mid-Market,165,20.61,67.0547,17.8848
+Standard,One Year,SMB,280,24.29,69.084,17.5929
+Standard,Two Year,Enterprise,63,12.7,66.968,17.9683
+Standard,Two Year,Mid-Market,114,9.65,70.5469,18.7544
+Standard,Two Year,SMB,185,27.03,70.1273,17.1892

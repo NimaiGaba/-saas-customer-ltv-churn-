@@ -1,0 +1,10 @@
+SubscriptionType,CustomerSegment,Customers,TotalRevenue,AvgLTV,AvgMonthlyCharge,AvgTenure
+Basic,Enterprise,407,217065.73,533.33,30.42,18.25
+Basic,Mid-Market,603,317331.0,526.25,30.54,17.61
+Basic,SMB,979,516586.35,527.67,30.94,17.85
+Premium,Enterprise,236,540942.02,2292.13,143.82,18.0
+Premium,Mid-Market,368,849862.82,2309.41,149.7,17.79
+Premium,SMB,626,1383628.1,2210.27,144.64,17.36
+Standard,Enterprise,329,419794.52,1275.97,70.15,18.59
+Standard,Mid-Market,535,642969.36,1201.81,68.99,17.75
+Standard,SMB,917,1097236.2,1196.55,69.79,17.6
